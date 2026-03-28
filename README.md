@@ -138,6 +138,12 @@ text = ocr.classification(open("hard_sample.jpg", "rb").read(), conf=0.6, iou=0.
   - **zjyjoe**: 感谢提供的 GPU 运行时。
   - **colin1112a**: 万恶之源。
 
-## 许可证
+## Star History
 
-本项目采用 **MIT 许可证**。详情请参阅 [LICENSE](https://www.google.com/search?q=LICENSE) 文件。
+<a href="https://www.star-history.com/?repos=gitpetyr%2Fppllocr&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=gitpetyr/ppllocr&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=gitpetyr/ppllocr&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=gitpetyr/ppllocr&type=date&legend=top-left" />
+ </picture>
+</a>
